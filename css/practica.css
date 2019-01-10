@@ -1,0 +1,51 @@
+
+
+body {
+	text-align: center;
+}
+
+.display_flex {
+	display: flex;
+}
+
+.cuadros_borde {
+	border: 5px solid black;
+	width: 40%;
+}
+
+#inf_general {
+	float: left;
+	margin-left: 50px;
+	margin-right: 10px;
+	height: 300px;
+}
+
+#llamado {
+	float: right;
+	margin-left: auto;
+	margin-right: 50px;
+	margin-top: 100px;
+	height: 100px;
+}
+
+.cuadros_contenido {
+	position: relative;
+	top: 40%;
+}
+
+.width_33 {
+	float: left;
+	width: 30%;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+}
+
+#precio {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color: green;
+}
+
+img {
+	width: 100%;
+}

@@ -1,0 +1,23 @@
+.display_flex {
+	display: flex;
+}
+
+.width_flex {
+	width: 35%;
+	text-align: center;
+}
+
+.width_flex > img {
+	width: 100%;
+}
+
+.display_flex > h1:hover {
+	color: pink;
+}
+
+
+/*
+
+Clases
+
+*/
